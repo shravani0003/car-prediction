@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 # App Title
 st.title("🚗 Car Evaluation Classifier using Random Forest & Streamlit")
 st.write("Predict the car condition using Machine Learning based on various features.")
-st.markdown(" Made by: Vighnesh")
+st.markdown(" Made by: Shravani")
 
 # File uploader (optional if user wants to try different data)
 uploaded_file = st.file_uploader(" Upload your car.csv file", type=['csv'])
